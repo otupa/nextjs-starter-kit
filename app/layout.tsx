@@ -10,8 +10,8 @@ import './globals.css'
 export const metadata: Metadata = {
   metadataBase: new URL("https://starter.rasmic.xyz"),
   title: {
-    default: 'Nextjs Starter Kit',
-    template: `%s | Nextjs Starter Kit`
+    default: 'Krypta Analytics',
+    template: `%s | Krypta Analytics`
   },
   description: 'Everything you need to quickly build your SaaS giving you time to focus on what really matters',
   openGraph: {
